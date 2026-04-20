@@ -72,8 +72,6 @@ cd backend
 python app.py
 ```
 
-Visit: http://localhost:5000
-
 ---
 
 ## 🌍 How Browser Geolocation Works
